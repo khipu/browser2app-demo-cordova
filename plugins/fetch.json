@@ -1,0 +1,26 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-cocoapod-support": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-cocoapod-support"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-khenshin": {
+        "source": {
+            "type": "local",
+            "path": "/Users/edavis/git/browser2app-demo-cordova/node_modules/cordova-khenshin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

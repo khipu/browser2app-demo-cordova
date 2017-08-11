@@ -1,0 +1,12 @@
+{
+	"pods": {
+		"khenshin": {
+			"name": "khenshin",
+			"git": "git@bitbucket.org:khipu/khenshin-pod.git",
+			"tag": "1.183"
+		}
+	},
+	"sources": {},
+	"iosMinVersion": "9.0",
+	"useFrameworks": true
+}

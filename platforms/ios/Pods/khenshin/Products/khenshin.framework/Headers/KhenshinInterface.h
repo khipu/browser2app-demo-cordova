@@ -59,7 +59,21 @@
                                       font:(UIFont *)                               font
                               skipExitPage:(BOOL)                                   skipExitPage;
 
-
++ (void) initWithNavigationBarCenteredLogo:(UIImage *)                              barCenteredLogo
+                 NavigationBarLeftSideLogo:(UIImage *)                              barLeftSideLogo
+                           automatonAPIURL:(NSURL *)                                automatonAPIURL
+                             cerebroAPIURL:(NSURL *)                                cerebroAPIURL
+                             processHeader:(UIView<ProcessHeader> *)         processHeader
+                    allowCredentialsSaving:(BOOL)                                   allowCredentialsSaving
+                           mainButtonStyle:(NSInteger)                              mainButtonStyle
+           hideWebAddressInformationInForm:(BOOL)                                   hideWebAddressInformationInForm
+                  useBarCenteredLogoInForm:(BOOL)                                   useBarCenteredLogoInForm
+                            principalColor:(UIColor *)                              principalColor
+                      darkerPrincipalColor:(UIColor *)                              darkerPrincipalColor
+                            secondaryColor:(UIColor *)                              secondaryColor
+                     navigationBarTextTint:(UIColor *)                              navigationBarTextTint
+                                      font:(UIFont *)                               font
+                              skipExitPage:(BOOL)                                   skipExitPage;
 
 + (BOOL) isRunningAutomaton;
 

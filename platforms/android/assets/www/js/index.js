@@ -36,20 +36,13 @@ var app = {
 			alert("Error calling Khenshin Plugin");
 		};
 
-		//khenshin.startByPaymentId("1yulut1r9viu", success, failure);
-
-		khenshin.startByAutomatonId(["Bawdf"
-										, "subject:Pago prueba"
-										, "amount:2000"
-										, "merchant:Comercio de prueba"
-										, "paymentId:12312312313123"
-										, "khipu_account_name:PAGOCMR"
-										, "khipu_account_number:55200104571"
-										, "khipu_alias:PAGOCMR"
-										, "payer_name:Emilio Davis"
-										, "payer_email:cmr@khipu.com"
-										, "khipu_rut:10.706.077-4"
-										, "khipu_email:transferencias@khipu.com"]
+		khenshin.createPayment(["account_number:123123123"
+								   , "personal_identifier:103402948"
+								   , "alias:DEMOALIAS"
+								   , "account_name:Nombre de la cuenta"
+								   , "subject:Pago de prueba"
+								   , "amount:100"
+							       , "developer:false"]
 			, success, failure);
 
 	},

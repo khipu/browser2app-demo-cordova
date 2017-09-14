@@ -1,5 +1,5 @@
 platform :ios, '9.0'
 use_frameworks!
 target 'HelloCordova' do
-	pod 'khenshin', :git => 'git@bitbucket.org:khipu/khenshin-pod.git', :tag => '1.183'
+	pod 'khenshin', :git => 'git@bitbucket.org:khipu/khenshin-pod.git', :tag => '1.186'
 end

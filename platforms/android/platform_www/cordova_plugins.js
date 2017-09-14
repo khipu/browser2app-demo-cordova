@@ -12,9 +12,9 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "cordova-khenshin": "0.0.1",
     "cordova-plugin-cocoapod-support": "1.3.0",
-    "cordova-plugin-whitelist": "1.3.2"
+    "cordova-plugin-whitelist": "1.3.2",
+    "cordova-khenshin": "0.0.1"
 };
 // BOTTOM OF METADATA
 });

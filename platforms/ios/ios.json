@@ -18,13 +18,13 @@
         }
     },
     "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
         "cordova-plugin-cocoapod-support": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-khenshin": {
-            "PACKAGE_NAME": "io.cordova.hellocordova"
-        },
-        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     },
@@ -40,8 +40,8 @@
         }
     ],
     "plugin_metadata": {
+        "cordova-plugin-whitelist": "1.3.2",
         "cordova-plugin-cocoapod-support": "1.3.0",
-        "cordova-khenshin": "0.0.1",
-        "cordova-plugin-whitelist": "1.3.2"
+        "cordova-khenshin": "0.0.1"
     }
 }

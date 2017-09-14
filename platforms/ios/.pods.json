@@ -3,7 +3,7 @@
 		"khenshin": {
 			"name": "khenshin",
 			"git": "git@bitbucket.org:khipu/khenshin-pod.git",
-			"tag": "1.183"
+			"tag": "1.186"
 		}
 	},
 	"sources": {},

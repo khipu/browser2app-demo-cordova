@@ -9,11 +9,11 @@
                 "parents": {
                     "/*": [
                         {
-                            "xml": "<feature name=\"Khenshin\"><param name=\"android-package\" value=\"com.browser2app.KhenshinPlugin\" /></feature>",
+                            "xml": "<feature name=\"Whitelist\"><param name=\"android-package\" value=\"org.apache.cordova.whitelist.WhitelistPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
                             "count": 1
                         },
                         {
-                            "xml": "<feature name=\"Whitelist\"><param name=\"android-package\" value=\"org.apache.cordova.whitelist.WhitelistPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "xml": "<feature name=\"Khenshin\"><param name=\"android-package\" value=\"com.browser2app.KhenshinPlugin\" /></feature>",
                             "count": 1
                         }
                     ]
@@ -22,13 +22,13 @@
         }
     },
     "installed_plugins": {
-        "cordova-khenshin": {
-            "PACKAGE_NAME": "io.cordova.hellocordova"
-        },
         "cordova-plugin-cocoapod-support": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         },
         "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-khenshin": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     },
@@ -44,8 +44,8 @@
         }
     ],
     "plugin_metadata": {
-        "cordova-khenshin": "0.0.1",
         "cordova-plugin-cocoapod-support": "1.3.0",
-        "cordova-plugin-whitelist": "1.3.2"
+        "cordova-plugin-whitelist": "1.3.2",
+        "cordova-khenshin": "0.0.1"
     }
 }

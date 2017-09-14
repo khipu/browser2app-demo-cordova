@@ -5,21 +5,20 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
-		0023EDB234C9492AB822A888 /* PaymentProcessHeader.xib in Sources */ = {isa = PBXBuildFile; fileRef = F11088FB78824105A6588A06 /* PaymentProcessHeader.xib */; };
 		0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0207DA571B56EA530066E2B4 /* Images.xcassets */; };
 		1D3623260D0F684500981E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
-		26B1A3A56CD2D9EDCE8FD179 /* Pods_HelloCordova.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDF90613203399D32579D5 /* Pods_HelloCordova.framework */; };
 		301BF552109A68D80062928A /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF535109A57CC0062928A /* libCordova.a */; };
 		302D95F114D2391D003F00A1 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302D95EF14D2391D003F00A1 /* MainViewController.m */; };
 		302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 302D95F014D2391D003F00A1 /* MainViewController.xib */; };
 		6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */; };
-		B7043092F9BB4AB7AEEACF44 /* PaymentProcessHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = F379617A789C4F42949984EA /* PaymentProcessHeader.m */; };
-		DA19D6A8A9B840B58829DAF4 /* PaymentProcessHeader.h in Sources */ = {isa = PBXBuildFile; fileRef = 482D9EFDD0E04CB7A8F22636 /* PaymentProcessHeader.h */; };
-		EE02AD6A367A417A89C6364F /* KhenshinPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = DD03F8451AEF4BCEAA77DBF3 /* KhenshinPlugin.m */; };
-		FCB4338EA59047B693CC5352 /* KhenshinPlugin.h in Sources */ = {isa = PBXBuildFile; fileRef = EA787CDA1B6F4D3689D6B88A /* KhenshinPlugin.h */; };
+		BC303B6FF0F6825DA2394CCF /* Pods_HelloCordova.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AB96CE594A750BE39AA549 /* Pods_HelloCordova.framework */; };
+		1E728E5CAA0B404EA1229086 /* PaymentProcessHeader.h in Resources */ = {isa = PBXBuildFile; fileRef = 35B07E7180334F8DAFDC9424 /* PaymentProcessHeader.h */; };
+		11EF05775F3F40919516B89A /* PaymentProcessHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = F2963581A57F427E8FCA5BB6 /* PaymentProcessHeader.m */; };
+		499438A604FB4B07BBE62AF2 /* PaymentProcessHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A0ECD3775384445903187A5 /* PaymentProcessHeader.xib */; };
+		E00DCB321B5A49B49F2C9633 /* KhenshinPlugin.h in Resources */ = {isa = PBXBuildFile; fileRef = FBD90AABD53848459FF72C9B /* KhenshinPlugin.h */; };
+		15FA63215E914241B4EF65B1 /* KhenshinPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = D57720BCD59C4806AF91A6FC /* KhenshinPlugin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		0207DA571B56EA530066E2B4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = HelloCordova/Images.xcassets; sourceTree = SOURCE_ROOT; };
+		17AB96CE594A750BE39AA549 /* Pods_HelloCordova.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HelloCordova.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D3623240D0F684500981E51 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* HelloCordova.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloCordova.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -54,18 +54,17 @@
 		3047A5101AB8059700498E2A /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "build-release.xcconfig"; path = "cordova/build-release.xcconfig"; sourceTree = SOURCE_ROOT; };
 		3047A5111AB8059700498E2A /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = build.xcconfig; path = cordova/build.xcconfig; sourceTree = SOURCE_ROOT; };
 		32CA4F630368D1EE00C91783 /* HelloCordova-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "HelloCordova-Prefix.pch"; sourceTree = "<group>"; };
-		482D9EFDD0E04CB7A8F22636 /* PaymentProcessHeader.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = PaymentProcessHeader.h; path = "cordova-khenshin/src/PaymentProcessHeader.h"; sourceTree = "<group>"; };
 		6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = CDVLaunchScreen.storyboard; path = HelloCordova/CDVLaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
 		8D1107310486CEB800E47090 /* HelloCordova-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "HelloCordova-Info.plist"; path = "HelloCordova/HelloCordova-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = SOURCE_ROOT; };
-		ADBDF90613203399D32579D5 /* Pods_HelloCordova.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HelloCordova.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD03F8451AEF4BCEAA77DBF3 /* KhenshinPlugin.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = KhenshinPlugin.m; path = "cordova-khenshin/src/KhenshinPlugin.m"; sourceTree = "<group>"; };
-		EA787CDA1B6F4D3689D6B88A /* KhenshinPlugin.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = KhenshinPlugin.h; path = "cordova-khenshin/src/KhenshinPlugin.h"; sourceTree = "<group>"; };
 		EB87FDF31871DA8E0020F90C /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../../www; sourceTree = "<group>"; };
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
 		ED33DF2A687741AEAF9F8254 /* Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Bridging-Header.h"; path = "Bridging-Header.h"; sourceTree = "<group>"; };
-		F11088FB78824105A6588A06 /* PaymentProcessHeader.xib */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = file.xib; name = PaymentProcessHeader.xib; path = "cordova-khenshin/src/PaymentProcessHeader.xib"; sourceTree = "<group>"; };
-		F379617A789C4F42949984EA /* PaymentProcessHeader.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = PaymentProcessHeader.m; path = "cordova-khenshin/src/PaymentProcessHeader.m"; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = HelloCordova/config.xml; sourceTree = "<group>"; };
+		35B07E7180334F8DAFDC9424 /* PaymentProcessHeader.h */ = {isa = PBXFileReference; name = "PaymentProcessHeader.h"; path = "cordova-khenshin/src/PaymentProcessHeader.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		F2963581A57F427E8FCA5BB6 /* PaymentProcessHeader.m */ = {isa = PBXFileReference; name = "PaymentProcessHeader.m"; path = "cordova-khenshin/src/PaymentProcessHeader.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		4A0ECD3775384445903187A5 /* PaymentProcessHeader.xib */ = {isa = PBXFileReference; name = "PaymentProcessHeader.xib"; path = "cordova-khenshin/src/PaymentProcessHeader.xib"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = file.xib; explicitFileType = undefined; includeInIndex = 0; };
+		FBD90AABD53848459FF72C9B /* KhenshinPlugin.h */ = {isa = PBXFileReference; name = "KhenshinPlugin.h"; path = "cordova-khenshin/src/KhenshinPlugin.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		D57720BCD59C4806AF91A6FC /* KhenshinPlugin.m */ = {isa = PBXFileReference; name = "KhenshinPlugin.m"; path = "cordova-khenshin/src/KhenshinPlugin.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +73,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
-				26B1A3A56CD2D9EDCE8FD179 /* Pods_HelloCordova.framework in Frameworks */,
+				BC303B6FF0F6825DA2394CCF /* Pods_HelloCordova.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,7 +114,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				4E5917E4CD6727FCF223C566 /* Pods */,
+				6CB44B445A17AE13BA4F15C8 /* Pods */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -146,7 +145,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				ADBDF90613203399D32579D5 /* Pods_HelloCordova.framework */,
+				17AB96CE594A750BE39AA549 /* Pods_HelloCordova.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -172,17 +171,17 @@
 		307C750510C5A3420062BCA9 /* Plugins */ = {
 			isa = PBXGroup;
 			children = (
-				482D9EFDD0E04CB7A8F22636 /* PaymentProcessHeader.h */,
-				F379617A789C4F42949984EA /* PaymentProcessHeader.m */,
-				F11088FB78824105A6588A06 /* PaymentProcessHeader.xib */,
-				EA787CDA1B6F4D3689D6B88A /* KhenshinPlugin.h */,
-				DD03F8451AEF4BCEAA77DBF3 /* KhenshinPlugin.m */,
+				35B07E7180334F8DAFDC9424 /* PaymentProcessHeader.h */,
+				F2963581A57F427E8FCA5BB6 /* PaymentProcessHeader.m */,
+				4A0ECD3775384445903187A5 /* PaymentProcessHeader.xib */,
+				FBD90AABD53848459FF72C9B /* KhenshinPlugin.h */,
+				D57720BCD59C4806AF91A6FC /* KhenshinPlugin.m */,
 			);
 			name = Plugins;
 			path = HelloCordova/Plugins;
 			sourceTree = SOURCE_ROOT;
 		};
-		4E5917E4CD6727FCF223C566 /* Pods */ = {
+		6CB44B445A17AE13BA4F15C8 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -205,13 +204,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "HelloCordova" */;
 			buildPhases = (
-				9107E82ABAA05A366B762532 /* [CP] Check Pods Manifest.lock */,
+				E417BC9ABFB8522A33463DF8 /* [CP] Check Pods Manifest.lock */,
 				304B58A110DAC018002A0835 /* Copy www directory */,
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
 				1D60588F0D05DD3D006BFB54 /* Frameworks */,
-				BBB73232631889CADF3CB40F /* [CP] Embed Pods Frameworks */,
-				E173F4EB6BD5676E339CD765 /* [CP] Copy Pods Resources */,
+				8F3A78F783C4701E2FC76372 /* [CP] Embed Pods Frameworks */,
+				647717C3E0AD3DF89B0417BE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -290,25 +289,25 @@
 			shellScript = "NODEJS_PATH=/usr/local/bin; NVM_NODE_PATH=~/.nvm/versions/node/`nvm version 2>/dev/null`/bin; N_NODE_PATH=`find /usr/local/n/versions/node/* -maxdepth 0 -type d 2>/dev/null | tail -1`/bin; XCODE_NODE_PATH=`xcode-select --print-path`/usr/share/xcs/Node/bin; PATH=$NODEJS_PATH:$NVM_NODE_PATH:$N_NODE_PATH:$XCODE_NODE_PATH:$PATH && node cordova/lib/copy-www-build-step.js";
 			showEnvVarsInLog = 0;
 		};
-		9107E82ABAA05A366B762532 /* [CP] Check Pods Manifest.lock */ = {
+		647717C3E0AD3DF89B0417BE /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
+				"${SRCROOT}/Pods/Target Support Files/Pods-HelloCordova/Pods-HelloCordova-resources.sh",
+				"${PODS_ROOT}/khenshin/Products/khenshin.bundle",
 			);
-			name = "[CP] Check Pods Manifest.lock";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-HelloCordova-checkManifestLockResult.txt",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HelloCordova/Pods-HelloCordova-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		BBB73232631889CADF3CB40F /* [CP] Embed Pods Frameworks */ = {
+		8F3A78F783C4701E2FC76372 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -340,22 +339,22 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HelloCordova/Pods-HelloCordova-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E173F4EB6BD5676E339CD765 /* [CP] Copy Pods Resources */ = {
+		E417BC9ABFB8522A33463DF8 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-HelloCordova/Pods-HelloCordova-resources.sh",
-				"${PODS_ROOT}/khenshin/Products/khenshin.bundle",
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
-			name = "[CP] Copy Pods Resources";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+				"$(DERIVED_FILE_DIR)/Pods-HelloCordova-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HelloCordova/Pods-HelloCordova-resources.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -368,11 +367,14 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
-				DA19D6A8A9B840B58829DAF4 /* PaymentProcessHeader.h in Sources */,
-				B7043092F9BB4AB7AEEACF44 /* PaymentProcessHeader.m in Sources */,
-				0023EDB234C9492AB822A888 /* PaymentProcessHeader.xib in Sources */,
-				FCB4338EA59047B693CC5352 /* KhenshinPlugin.h in Sources */,
-				EE02AD6A367A417A89C6364F /* KhenshinPlugin.m in Sources */,
+				9B6E7F9B75D64E158F68725C /* PaymentProcessHeader.h in Sources */,
+				ABF2141E9DE6491489A7EC99 /* PaymentProcessHeader.xib in Sources */,
+				22EA1E1A6D2846F1B1A44F89 /* KhenshinPlugin.h in Sources */,
+				1E728E5CAA0B404EA1229086 /* PaymentProcessHeader.h in Resources */,
+				11EF05775F3F40919516B89A /* PaymentProcessHeader.m in Sources */,
+				499438A604FB4B07BBE62AF2 /* PaymentProcessHeader.xib in Resources */,
+				E00DCB321B5A49B49F2C9633 /* KhenshinPlugin.h in Resources */,
+				15FA63215E914241B4EF65B1 /* KhenshinPlugin.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

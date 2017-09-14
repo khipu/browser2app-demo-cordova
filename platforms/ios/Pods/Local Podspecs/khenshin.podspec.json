@@ -1,6 +1,6 @@
 {
   "name": "khenshin",
-  "version": "1.183",
+  "version": "1.186",
   "summary": "khenshin es el músculo para realizar el proceso de pago dentro de cada Medio de Pago soportado.",
   "description": "khenshin es el músculo para realizar el proceso de pago dentro de cada Medio de Pago soportado. With a little bit more salt than summary.",
   "homepage": "https://khipu.com",
@@ -16,7 +16,7 @@
   },
   "source": {
     "git": "https://bitbucket.org/khipu/khenshin-pod.git",
-    "tag": "1.183"
+    "tag": "1.186"
   },
   "vendored_frameworks": "Products/khenshin.framework",
   "resources": "Products/khenshin.bundle",

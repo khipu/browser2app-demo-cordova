@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15e71c9-e0b3-49ca-a0a3-1b10159c61b8" name="Default" comment="" />
+    <list default="true" id="f15e71c9-e0b3-49ca-a0a3-1b10159c61b8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/Cordova.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/CordovaLib.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcworkspace/xcuserdata/edavis.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcworkspace/xcuserdata/edavis.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.0.2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-release.aar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Assets.car" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Assets.car" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/4st-1A-Kej-view-sf3-55-bAE.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/4st-1A-Kej-view-sf3-55-bAE.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/8fn-bm-NIc-view-avz-vp-aVL.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/8fn-bm-NIc-view-avz-vp-aVL.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/ExitViewController.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/ExitViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/IhM-Rb-vej-view-hoS-FJ-CZ1.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/IhM-Rb-vej-view-hoS-FJ-CZ1.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/KHFormViewController.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/KHFormViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/KHLookHowItWorksViewController.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/KHLookHowItWorksViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/KHSHNUIViewController.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/KHSHNUIViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/NavigationController.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/NavigationController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/TermsAndConditions.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/TermsAndConditions.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/UIViewController-uSQ-9U-R4U.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/UIViewController-uSQ-9U-R4U.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/ojb-1Q-hPK-view-9sJ-pC-9j5.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/ojb-1Q-hPK-view-9sJ-pC-9j5.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/tKZ-g9-9P9-view-J90-a4-rk5.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/tKZ-g9-9P9-view-J90-a4-rk5.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/uSQ-9U-R4U-view-1vf-oD-is6.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Base.lproj/bank.storyboardc/uSQ-9U-R4U-view-1vf-oD-is6.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/DetailInstallmentView.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/DetailInstallmentView.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/KHRutKeyboard.nib" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.bundle/KHRutKeyboard.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.framework/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.framework/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.framework/khenshin" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.framework/khenshin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/platforms/android/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/android.json" afterPath="$PROJECT_DIR$/platforms/android/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/khenshin.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/plugins/cordova-khenshin/www/khenshin.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/plugins/cordova-khenshin/www/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova-khenshin/hellocordova-khenshin.gradle" afterPath="$PROJECT_DIR$/platforms/android/cordova-khenshin/hellocordova-khenshin.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/platform_www/js/khenshin.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/js/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/platform_www/plugins/cordova-khenshin/www/khenshin.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/plugins/cordova-khenshin/www/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/com/browser2app/CordovaKhenshinApplication.java" afterPath="$PROJECT_DIR$/platforms/android/src/com/browser2app/CordovaKhenshinApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/com/browser2app/KhenshinPlugin.java" afterPath="$PROJECT_DIR$/platforms/android/src/com/browser2app/KhenshinPlugin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/.pods.json" afterPath="$PROJECT_DIR$/platforms/ios/.pods.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Plugins/cordova-khenshin/src/KhenshinPlugin.h" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Plugins/cordova-khenshin/src/KhenshinPlugin.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Plugins/cordova-khenshin/src/KhenshinPlugin.m" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Plugins/cordova-khenshin/src/KhenshinPlugin.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Podfile" afterPath="$PROJECT_DIR$/platforms/ios/Podfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Podfile.lock" afterPath="$PROJECT_DIR$/platforms/ios/Podfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Local Podspecs/khenshin.podspec.json" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Local Podspecs/khenshin.podspec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Manifest.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/Pods-HelloCordova.xcscheme" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/Pods-HelloCordova.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/edavis.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.framework/Headers/KhenshinInterface.h" afterPath="$PROJECT_DIR$/platforms/ios/Pods/khenshin/Products/khenshin.framework/Headers/KhenshinInterface.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/ios.json" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/platform_www/js/khenshin.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/js/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/platform_www/plugins/cordova-khenshin/www/khenshin.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/plugins/cordova-khenshin/www/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/khenshin.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-khenshin/www/khenshin.js" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-khenshin/www/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/android.json" afterPath="$PROJECT_DIR$/plugins/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cordova-khenshin/plugin.xml" afterPath="$PROJECT_DIR$/plugins/cordova-khenshin/plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cordova-khenshin/src/android/com/browser2app/CordovaKhenshinApplication.java" afterPath="$PROJECT_DIR$/plugins/cordova-khenshin/src/android/com/browser2app/CordovaKhenshinApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cordova-khenshin/src/android/com/browser2app/KhenshinPlugin.java" afterPath="$PROJECT_DIR$/plugins/cordova-khenshin/src/android/com/browser2app/KhenshinPlugin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cordova-khenshin/src/android/khenshin.gradle" afterPath="$PROJECT_DIR$/plugins/cordova-khenshin/src/android/khenshin.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cordova-khenshin/src/ios/KhenshinPlugin.h" afterPath="$PROJECT_DIR$/plugins/cordova-khenshin/src/ios/KhenshinPlugin.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cordova-khenshin/src/ios/KhenshinPlugin.m" afterPath="$PROJECT_DIR$/plugins/cordova-khenshin/src/ios/KhenshinPlugin.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cordova-khenshin/www/khenshin.js" afterPath="$PROJECT_DIR$/plugins/cordova-khenshin/www/khenshin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ios.json" afterPath="$PROJECT_DIR$/plugins/ios.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +124,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+            <state relative-caret-position="203">
+              <caret line="44" column="55" lean-forward="false" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -54,6 +144,9 @@
     <replaceStrings>
       <replace>:</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -96,8 +189,8 @@
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/platforms/ios/pods-debug.xcconfig" />
         <option value="$PROJECT_DIR$/platforms/ios/Podfile" />
-        <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/platforms/ios/cordova/build.xcconfig" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
       </list>
     </option>
   </component>
@@ -123,8 +216,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="23" />
+    <option name="x" value="38" />
+    <option name="y" value="103" />
     <option name="width" value="1716" />
     <option name="height" value="777" />
   </component>
@@ -143,9 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,6 +300,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -296,7 +389,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="23" width="1716" height="777" extended-state="0" />
+    <frame x="38" y="103" width="1716" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -306,13 +399,15 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26164874" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -320,9 +415,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -471,8 +564,8 @@
     <entry file="file://$PROJECT_DIR$/platforms/ios/cordova/build.xcconfig" />
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        <state relative-caret-position="203">
+          <caret line="44" column="55" lean-forward="false" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
